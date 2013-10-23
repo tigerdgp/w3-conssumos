@@ -1,3 +1,0 @@
-<section>
-        centro ooooo
-        </section>
